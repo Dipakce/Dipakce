@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dipakce
+- 👋 Hi, I’m Dipak Singh.
 - 👀 I’m interested in On-Device Machine Learning and Deep Learning technologies
 - 🌱 I’m currently learning BERT.
 - 💞️ I’m looking to collaborate on Enabling Video Analytics on Smarphone using MobileNetV2 On-Device DL libraries
